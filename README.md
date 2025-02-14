@@ -6,7 +6,7 @@ EncryptorPro is a comprehensive solution designed to enhance data security by pr
 
 ## Features
 
-- **Advanced Encryption**: Utilizes state-of-the-art encryption algorithms to protect your data.
+- **Advanced Encryption**: Utilises state-of-the-art encryption algorithms to protect your data.
 - **Seamless Integration**: Easily integrates with various cloud platforms to ensure data security across all your applications.
 - **User-Friendly Interface**: Intuitive design allows for easy navigation and configuration.
 
@@ -33,7 +33,7 @@ To get started with EncryptorPro, follow these steps:
 ### 1. Import the EncryptorPro Solution
 
 1. **Download the Solution**: Obtain the latest version of the EncryptorPro solution package from my [GitHub Repository](Solution).
-2. **Access Your Environment**: Log in to your cloud service environment where you intend to deploy EncryptorPro.
+2. **Access Your Environment**: Log in to your Power Platform environment where you intend to deploy EncryptorPro.
 3. **Import the Solution**:
    - Navigate to the solutions section of your environment.
    - Select the option to import a new solution.
